@@ -1,5 +1,5 @@
 <?php
-class Home
+class Controller_Home
 {
     public function dispatch()
     {

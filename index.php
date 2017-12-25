@@ -10,7 +10,7 @@ function autoloader($className){
 }
 
 
-Router::addRout('', 'Home');
-Router::addRout('Hello', 'Hello');
+Router::addRout('', 'Controller/Home');
+Router::addRout('Hello', 'Controller/Hello');
 Router::match();
 

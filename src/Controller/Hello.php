@@ -1,6 +1,6 @@
 <?php
 
-class Hello
+class Controller_Hello
 {
     public function dispatch()
     {

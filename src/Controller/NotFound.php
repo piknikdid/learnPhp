@@ -1,5 +1,5 @@
 <?php
-class NotFound
+class Controller_NotFound
 {
     public function dispatch()
     {
