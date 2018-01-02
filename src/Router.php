@@ -33,7 +33,7 @@ class Router {
         }
 
         else{
-            NotFound::dispatch();
+            Controller_NotFound::dispatch();
         }
 
 
